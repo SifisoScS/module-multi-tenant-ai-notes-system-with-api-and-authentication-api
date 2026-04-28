@@ -1,0 +1,8 @@
+{
+  "name": "module-multi-tenant-ai-notes-system-with-api-and-authentication-api",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  }
+}
